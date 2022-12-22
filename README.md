@@ -89,6 +89,12 @@ This command will pull t4isb/t4face:t4face-server-v1.4.7, t4isb/t4face:mysql-frs
 
 Please contact our support to get your user/password.
 
+### Use Swagger UI
+Once docker containers are up and running you can test our t4-face using the Swagger UI. Just open the url <br/> <http://localhost:8004/docs>
+
+<p align="center">
+  <img height="600" src="t4face-swagger.png" alt="Twyn">
+</p>
 
 ### Support or Contact
 
